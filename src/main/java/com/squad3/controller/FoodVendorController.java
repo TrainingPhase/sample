@@ -7,15 +7,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping(value = "/food-vendors")
 public class FoodVendorController {
 
-	
-	ggggggggggggggggggggggggggggggggg
-gggggggggggggggggggggggggggggggggggg
-eyyyyyyyyyyyyyyyyyyyyyyyyyycvvvvvvvvvvvvvvvvvvvvvvvvvvvvidepdfcgvhjkmn['
-egr56789201-`;.,	mnbv
-
-
-
 User 2
+user
 }
 	
 	
